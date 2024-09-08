@@ -1,6 +1,6 @@
-# React + Vite
+# To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a to do list application in which a user can categorise their tasks into high and low priority. There is also a weekly habit tracker in which they can track their habits.
 
 Currently, two official plugins are available:
 
